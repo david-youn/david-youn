@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
-<!--
-**david-youn/david-youn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with ~3 years of experience in backend and full-stack systems. <br>
+I've built and operated distributed systems at Amazon (AWS) and healthcare technology companies. <br>
 
-Here are some ideas to get you started:
+### What I work with
+- **Programming Languages**: Java, Python, SQL, Ruby, JavaScript, HTML
+- **Frameworks & Tools**: Spring Boot, Git, AWS (CloudWatch, Lambda, S3), Ruby on Rails, Linux
+- **Database Systems**: MongoDB, MySQL, DynamoDB
+- **Other**: Distributed Systems, API Design, SDLC, E2E Testing, On-Call Support
+  
+### Background
+- Former Software Engineer at ActX
+- Former Software Development Engineer at AWS
+- Experience supporting high-throughput, mission-critical services
+- Interested in backend, platform, and data-adjacent engineering roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/david-youn)
